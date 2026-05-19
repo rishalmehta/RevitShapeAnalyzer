@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+  <AddIn Type="Application">
+
+    <Name>RevitShapeAnalyzer</Name>
+
+    <Assembly>
+      "C:\Dev\RevitShapeAnalyzer\bin\x64\Debug\net10.0-windows\RevitShapeAnalyzer.dll"
+    </Assembly>
+
+    <AddInId>
+      8133DCFC-A23F-4D63-9486-8D4519B66A62
+    </AddInId>
+
+    <FullClassName>
+      RevitShapeAnalyzer.App
+    </FullClassName>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>
+      Shape Analyzer Plugin
+    </VendorDescription>
+
+  </AddIn>
+
+</RevitAddIns>
